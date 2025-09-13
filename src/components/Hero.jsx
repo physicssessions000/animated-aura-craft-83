@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center animate-fadeInUp">
           <div className="mb-8">
-            <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-primary bg-clip-text text-transparent">
+            <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-primary bg-clip-text text-transparent drop-shadow-lg" style={{ textShadow: '0 0 20px rgba(59, 130, 246, 0.5)' }}>
               Rakesh Vajrapu
             </h1>
             <div className="text-xl md:text-2xl text-muted-foreground animate-typing">
