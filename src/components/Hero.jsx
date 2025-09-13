@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center animate-fadeInUp">
           <div className="mb-8">
-            <h1 className="text-5xl md:text-7xl font-bold mb-4 gradient-text-enhanced">
+            <h1 className="text-5xl md:text-7xl font-bold mb-4 text-primary">
               Rakesh Vajrapu
             </h1>
             <div className="text-xl md:text-2xl text-muted-foreground animate-typing">
